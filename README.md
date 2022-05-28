@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dev-pinheiro-joao
-- 👀 I’m interested in all types of programming languages
-- 🌱 I’m currently learning Git & Github
+- 👋 Olá, eu sou @dev-pinheiro-joao
+- 👀 Tenho interesse em todos os tipos de linguagens de programação, com preferência em Front-End.
+- 🌱 Eu estou aprendendo atualmente Git & Github do CursoEmVideo
 
 <!---
 dev-pinheiro-joao/dev-pinheiro-joao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
